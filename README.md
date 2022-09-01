@@ -1,13 +1,3 @@
-# [Bootstrap Table](https://bootstrap-table.com)
-
-[![Build Status](https://travis-ci.org/wenzhixin/bootstrap-table.svg)](https://travis-ci.org/wenzhixin/bootstrap-table)
-[![GitHub version](https://badge.fury.io/gh/wenzhixin%2Fbootstrap-table.svg)](http://badge.fury.io/gh/wenzhixin%2Fbootstrap-table)
-[![Donate](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=ZDHP676FQDUT6)
-[![Backers on Open Collective](https://opencollective.com/bootstrap-table/backers/badge.svg)](#backers)
-[![Sponsors on Open Collective](https://opencollective.com/bootstrap-table/sponsors/badge.svg)](#sponsors)
-[![Package Quality](https://npm.packagequality.com/shield/bootstrap-table.svg)](https://packagequality.com/#?package=bootstrap-table)
-
-An extended Bootstrap table with radio, checkbox, sort, pagination, extensions and other added features.
 
 To get started, check out:
 
